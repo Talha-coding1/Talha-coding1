@@ -20,15 +20,15 @@ I am a final-year **Computer Science** student in my **8th semester**, specializ
 
 ### 🛠️ Featured Projects
 
-#### 1. 🚀 [AI-Based Fire and Smoke Detection System] (Final Year Project)
+#### 1. 🚀 AI-Based Fire and Smoke Detection System (Final Year Project)
 * Designed a custom computer vision surveillance pipeline using real-time **YOLO** architectures.
 * Handled full dataset management and optimization, deploying an interactive web application with instant alerts using **Flask**.
 
-#### 2. 🛣️ [Automated Pothole Detection System]
+#### 2. 🛣️ Automated Pothole Detection System
 * Developed an end-to-end vision solution to monitor and evaluate local road conditions for public infrastructure safety.
 * Curated and annotated custom image datasets via **Roboflow** and built a responsive deployment via **Streamlit**.
 
-#### 3. 🚦 [Smart Traffic Management Framework]
+#### 3. 🚦 Smart Traffic Management Framework
 * Researched deep reinforcement learning architectures to design intelligent, adaptive traffic frameworks aimed at reducing urban gridlocks.
 
 ---
