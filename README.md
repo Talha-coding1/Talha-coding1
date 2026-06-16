@@ -1,42 +1,49 @@
 ## Hi there, I'm Muhammad Talha! 👋
 
-I am a final-year **Computer Science** student currently in my **8th semester**, driven by a passion for building intelligent systems and seamless user experiences. I specialize in the intersection of **Machine Learning** and **Web Development**, always looking for ways to bridge the gap between data-driven insights and functional applications.
+I am a final-year **Computer Science** student in my **8th semester**, specializing in **Artificial Intelligence, Deep Learning, and Computer Vision**. I am driven by a passion for building reliable, real-world AI systems—taking models from data collection and annotation all the way to web deployment[cite: 1].
 
 ---
 
 ### 🚀 Technical Toolbox
 
-**Data Science & Machine Learning**
-* **Languages:** Python (Pandas, NumPy, Matplotlib)
-* **Models:** Support Vector Machines (SVM), Linear/Polynomial Kernels, Data Profiling
-* **Specialties:** Smart Traffic Management Systems, Data Quality Expert Systems (DQES)
+**Artificial Intelligence & Data Science**
+* **Core Domains:** Computer Vision, Deep Learning, Machine Learning pipelines[cite: 1]
+* **Frameworks & Tools:** YOLO (Object Detection), Roboflow (Dataset Management)[cite: 1]
+* **Data Analysis:** Python (Pandas, NumPy, Matplotlib)[cite: 1]
 
-**Web Engineering & Frontend**
-* **Backend:** PHP, Server-side logic, Middleware implementation
-* **Frontend:** Crafting responsive and modern user interfaces
-* **Tools:** Version control with Git, Cisco Networking Academy (AI certified)
-
----
-
-### 🛠️ Current Projects & Research
-* **AI for Smart Traffic Management:** Developing research-driven solutions to alleviate urban congestion using intelligent algorithms.
-* **Data Quality Expert Systems:** Designing architectures to ensure data integrity through rule-based profiling.
-* **ML Implementation:** Recently completed performance analysis of SVMs on healthcare datasets.
+**Web Engineering & Deployment**
+* **Deployment:** Streamlit (Building interactive web interfaces for AI models)[cite: 1]
+* **Frontend:** HTML, CSS, JavaScript[cite: 1]
+* **Tools & Certifications:** Git/GitHub, Cisco Networking Academy (AI Certified)[cite: 1]
 
 ---
 
-### 🧠 Interests & Goals
-* **Interdisciplinary Tech:** Exploring how **Psychology** principles can enhance User Experience (UX) and Software Engineering.
-* **Continuous Learning:** Deepening my expertise in AI ethics and modern server-side architectures.
-* **Future Plans:** Pursuing advanced research in AI to solve real-world infrastructure challenges.
+### 🛠️ Featured Projects
+
+#### 1. 🚀 [AI-Based Fire and Smoke Detection System](https://github.com/Talha-coding1) (Final Year Project)
+* Designed a custom computer vision surveillance pipeline using real-time **YOLO** architectures[cite: 1].
+* Handled full dataset management and optimization, deploying an interactive web application with instant alerts using **Streamlit**[cite: 1].
+
+#### 2. 🛣️ [Automated Pothole Detection System](https://github.com/Talha-coding1)
+* Developed an end-to-end vision solution to monitor and evaluate local road conditions for public infrastructure safety[cite: 1].
+* Curated and annotated custom image datasets via **Roboflow** and built a responsive deployment via **Streamlit**[cite: 1].
+
+#### 3. 🚦 [Smart Traffic Management Framework](https://github.com/Talha-coding1)
+* Researched deep reinforcement learning architectures to design intelligent, adaptive traffic frameworks aimed at reducing urban gridlocks[cite: 1].
+
+---
+
+### 🧠 Research Interests & Goals
+* **Advanced Visual Computing:** Exploring 3D reconstruction, generative models, and vision-language integration[cite: 1].
+* **Resource-Efficient AI:** Optimizing deep learning networks to run effectively on low-resource hardware.
+* **Future Pathway:** Transitioning my practical engineering skills into high-impact academic research and graduate studies (MS/PhD)[cite: 1].
 
 ---
 
 ### 📫 Connect with Me
-* **Email:** [talha22563@gmail.com](mailto:talha22563@gmail.com)
-* **Location:** Swat, Pakistan 🇵🇰
-
-
+* **Email:** [talha22563@gmail.com](mailto:talha22563@gmail.com)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/muhammad-talha](https://linkedin.com/in/muhammad-talha-09723a284)
+* **Location:** Swat, Pakistan 🇵🇰[cite: 1]
 
 ---
 
