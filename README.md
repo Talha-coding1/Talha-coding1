@@ -1,6 +1,6 @@
 ## Hi there, I'm Muhammad Talha! 👋
 
-I am a final-year **Computer Science** student in my **8th semester**, specializing in **Artificial Intelligence, Deep Learning, and Computer Vision**. I am driven by a passion for building reliable, real-world AI systems—taking models from data collection and annotation all the way to web deployment.
+I am a final-year **Computer Science** student in my **8th semester**, specializing in **Artificial Intelligence, Deep Learning, and Computer Vision**. I am driven by a passion for building reliable, real-world AI systems, taking models from data collection and annotation all the way to web deployment.
 
 ---
 
@@ -14,21 +14,21 @@ I am a final-year **Computer Science** student in my **8th semester**, specializ
 **Web Engineering & Deployment**
 * **Deployment:** Streamlit , Flask (Building interactive web interfaces for AI models)
 * **Frontend:** HTML, CSS, JavaScript
-* **Tools & Certifications:** Git/GitHub, Cisco Networking Academy (AI Certified)
+* **Tools & Certifications:** Git/GitHub, Cisco Networking Academy (AI Certified), NAVTTC (AI,ML,DL Certified), KPITB(ML,DL,LLM Certified)
 
 ---
 
 ### 🛠️ Featured Projects
 
-#### 1. 🚀 [AI-Based Fire and Smoke Detection System](https://github.com/Talha-coding1) (Final Year Project)
+#### 1. 🚀 [AI-Based Fire and Smoke Detection System] (Final Year Project)
 * Designed a custom computer vision surveillance pipeline using real-time **YOLO** architectures.
 * Handled full dataset management and optimization, deploying an interactive web application with instant alerts using **Flask**.
 
-#### 2. 🛣️ [Automated Pothole Detection System](https://github.com/Talha-coding1)
+#### 2. 🛣️ [Automated Pothole Detection System]
 * Developed an end-to-end vision solution to monitor and evaluate local road conditions for public infrastructure safety.
 * Curated and annotated custom image datasets via **Roboflow** and built a responsive deployment via **Streamlit**.
 
-#### 3. 🚦 [Smart Traffic Management Framework](https://github.com/Talha-coding1)
+#### 3. 🚦 [Smart Traffic Management Framework]
 * Researched deep reinforcement learning architectures to design intelligent, adaptive traffic frameworks aimed at reducing urban gridlocks.
 
 ---
