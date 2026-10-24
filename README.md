@@ -1,5 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Muhammad Talha 👋</h1>
+  <!-- DYNAMIC TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F2C59&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer+;Generative+AI+%26+RAG+Specialist;Computer+Vision+%26+LLM+Backends;Research+.+Build+.+Deploy" alt="Typing SVG" />
+  </a>
+</div>
   <p><b>AI Engineer | Generative AI & Computer Vision Specialist</b></p>
 
   <a href="https://www.linkedin.com/in/muhammad-talha-09723a284/">
