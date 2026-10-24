@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BS Computer Science Graduate** (Class Topper / Highest CGPA) from Govt. Postgraduate Jahanzeb College, affiliated with the University of Swat.
+- 🎓 **BS Computer Science Graduate** from Govt. Postgraduate Jahanzeb College, affiliated with the University of Swat.
 - 💼 Currently working as an **AI Engineer (Contract)** at **Crown Software House & Computer Institute**.
 - 🤖 Specialized in building production-ready **Generative AI applications, RAG pipelines, Agentic workflows, and real-time Computer Vision solutions**.
 - 📜 Certified in **Machine Learning & Deep Learning (A+ Grade)** by **NAVTTC** & **KPITB**.
