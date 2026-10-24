@@ -40,8 +40,8 @@
 | **Generative AI & LLMs** | RAG Architecture, LangChain, LlamaIndex, Groq Cloud API, Multilingual STT, Agentic AI, RAGAS |
 | **Machine Learning & Vision** | YOLO (v8/v12), OpenCV, PyTorch, TensorFlow, Scikit-Learn, XGBoost, Roboflow |
 | **Backend & Web Frameworks** | Python, FastAPI, Flask, REST APIs, Microservices, Streamlit, HTML5/CSS3 |
-| **Databases & Vector Stores** | ChromaDB, Qdrant, Pinecone, PostgreSQL, MySQL |
-| **Developer Tools** | Docker, Git/GitHub, Devcontainers, VS Code, Google Colab, Linux |
+| **Databases & Vector Stores** | ChromaDB, Qdrant, Pinecone, MySQL |
+| **Developer Tools** | Docker, Git/GitHub, Devcontainers, VS Code, Google Colab |
 
 </div>
 
@@ -69,11 +69,12 @@
 
 ---
 
-### 📊 GitHub Activity
+### ⚡ GitHub Stats & Tech Summary
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha-coding1&show_icons=true&theme=radial&hide_border=true" alt="Talha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-coding1&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/Talha-coding1?label=Followers&style=for-the-badge&color=0F2C59&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Talha-coding1?label=Total%20Stars&style=for-the-badge&color=0F2C59&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repositories_of/Talha-coding1?label=Repositories&style=for-the-badge&color=0F2C59&logo=github" alt="Repos" />
 </div>
 
 ---
