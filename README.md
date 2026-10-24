@@ -69,12 +69,14 @@
 
 ---
 
-### ⚡ GitHub Stats & Tech Summary
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Talha-coding1?label=Followers&style=for-the-badge&color=0F2C59&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Talha-coding1?label=Total%20Stars&style=for-the-badge&color=0F2C59&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/repositories_of/Talha-coding1?label=Repositories&style=for-the-badge&color=0F2C59&logo=github" alt="Repos" />
+  <!-- GitHub Streak & Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-coding1&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <!-- Profile Summary / Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talha-coding1&theme=dark" alt="GitHub Stats" width="48%" />
 </div>
 
 ---
